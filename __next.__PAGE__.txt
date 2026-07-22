@@ -1,0 +1,10 @@
+1:"$Sreact.fragment"
+2:I[47257,["/oregon-coast-trip/_next/static/chunks/0dbhjjzl8qfwv.js"],"ClientPageRoot"]
+3:I[31713,["/oregon-coast-trip/_next/static/chunks/0dbhjjzl8qfwv.js","/oregon-coast-trip/_next/static/chunks/100q9fxyui.k3.js"],"default"]
+6:I[97367,["/oregon-coast-trip/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/oregon-coast-trip/_next/static/chunks/03xkuzkec7yp_.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/oregon-coast-trip/_next/static/chunks/03xkuzkec7yp_.css","precedence":"next"}],["$","script","script-0",{"src":"/oregon-coast-trip/_next/static/chunks/100q9fxyui.k3.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"27qnICIEak-GumvbmvZba"}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null

@@ -1,0 +1,3 @@
+:HL["/oregon-coast-trip/_next/static/chunks/0e0ilp4r~ycz8.css","style"]
+:HL["/oregon-coast-trip/_next/static/chunks/03xkuzkec7yp_.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"27qnICIEak-GumvbmvZba"}
